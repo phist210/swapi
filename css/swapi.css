@@ -1,0 +1,49 @@
+body{
+  width:auto;
+  font-family: sans-serif;
+  font-weight: lighter;
+  background-color: #ccc;
+}
+
+.character{
+  color: white;
+}
+
+.film{
+  color: white;
+}
+
+#container{
+  width: 700px;
+  height: inherit;
+  margin: 0 auto;
+  border-top: 1px solid;
+  padding: 20px;
+}
+
+#list_character{
+  text-align: center;
+  width: 30%;
+  margin: 5px;
+  float: left;
+  padding-bottom: 10px;
+  border: 1px solid #ccc;
+}
+
+#list_film{
+  text-align: center;
+  width: 30%;
+  margin: 5px;
+  float: left;
+  padding-bottom: 10px;
+  border: 1px solid #ccc;
+}
+
+#list_vehicle{
+  text-align: center;
+  width: 30%;
+  margin: 5px;
+  float: left;
+  border: 1px solid #ccc;
+  padding-bottom: 10px;
+}
