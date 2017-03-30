@@ -4,7 +4,7 @@
 
 ***
 
-#### This application reads data from [a Star Wars API](http://swapi.co "SWapi (dot) co") and allows the user to view information from specific categories.
+This application reads data from [a Star Wars API](http://swapi.co "SWapi (dot) co") and allows the user to view information from specific categories.
 
 ### Execution
 
@@ -13,4 +13,4 @@ Download or clone this repository and, with your browser of choice ready to go, 
 
 ### Contributors
 
-	#<b>Josh Friese</b> - [phist210](http://phist210.github.com)
+	* <b>Josh Friese</b> - [phist210](http://phist210.github.com)
