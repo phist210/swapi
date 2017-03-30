@@ -13,6 +13,12 @@ body{
   color: white;
 }
 
+#banner{
+  margin: 0 auto;
+  width: 700px;
+  text-align: center;
+}
+
 #container{
   width: 700px;
   height: inherit;
