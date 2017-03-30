@@ -12,5 +12,4 @@ Download or clone this repository and, with your browser of choice ready to go, 
 
 
 ### Contributors
-
-	* <b>Josh Friese</b> - [phist210](http://phist210.github.com)
+  * **Josh Friese** - [phist210](http://phist210.github.com)
