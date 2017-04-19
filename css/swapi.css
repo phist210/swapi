@@ -1,20 +1,27 @@
+@font-face {
+  font-family: myFont;
+  src: url(Starjedi.ttf);
+}
+
 body{
   width:auto;
   font-family: sans-serif;
   font-weight: lighter;
+  letter-spacing: 2px;
   background-color: #ccc;
 }
 
-.character{
-  color: white;
-}
-
-.film{
-  color: white;
+.details{
+  background-color: white;
+  border-radius: 5px;
+  font-size: 14px;
+  overflow: scroll;
+  padding: 1em;
 }
 
 #banner{
   margin: 0 auto;
+  font-family: myFont;
   width: 700px;
   text-align: center;
 }
@@ -34,6 +41,7 @@ body{
   float: left;
   padding-bottom: 10px;
   border: 1px solid #ccc;
+  cursor: pointer;
 }
 
 #list_film{
@@ -43,6 +51,7 @@ body{
   float: left;
   padding-bottom: 10px;
   border: 1px solid #ccc;
+  cursor: pointer;
 }
 
 #list_vehicle{
@@ -52,4 +61,5 @@ body{
   float: left;
   border: 1px solid #ccc;
   padding-bottom: 10px;
+  cursor: pointer;
 }
